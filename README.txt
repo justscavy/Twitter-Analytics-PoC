@@ -1,9 +1,9 @@
-Title: Social Media Analytics Database
+## Social Media Analytics Database
 
-Introduction:
+## Introduction:
 This database serves as a comprehensive example for analyzing datasets of Twitter users, showcasing the possibilities of social media analysis. The datasets provided are randomly generated and intended for practice and illustrative purposes only.
 
-Database Implementation Instructions:
+## Database Implementation Instructions:
 To integrate this database into your Microsoft SQL Server (MsSQL) environment, follow the provided scripts in the specified order.
 
 User Credentials:
